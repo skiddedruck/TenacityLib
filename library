@@ -37,7 +37,7 @@ do
         TextLabel.BackgroundTransparency = 1.000
         TextLabel.Size = UDim2.new(0, 304, 0, 101)
         TextLabel.Font = Enum.Font.JosefinSans
-        TextLabel.Text = "tenacity"
+        TextLabel.Text = "tenacity remade (sk1dded)"
         TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
         TextLabel.TextSize = 54.000
         library.WatermarkLabel = TextLabel
@@ -52,7 +52,7 @@ do
         versionNumber.Position = UDim2.new(0.519736826, 0, 0, 0)
         versionNumber.Size = UDim2.new(0, 168, 0, 60)
         versionNumber.Font = Enum.Font.GothamBold
-        versionNumber.Text = "5.0"
+        versionNumber.Text = "50"
         versionNumber.TextColor3 = Color3.fromRGB(255, 255, 255)
         versionNumber.TextSize = 15.000
 
